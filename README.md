@@ -47,7 +47,7 @@ Each method is evaluated on how classification error changes as dimensionality i
 Backward Search yields better accuracy when fewer dimensions are retained, while PCA is faster and still useful when preserving structure.
 
 
-👩‍💻 Author
-Razieh Moradi Graduate Student, McMaster University 📫 moradr1@mcmaster.ca
+ Author
+Razieh Moradi Graduate Student, McMaster University  moradr1@mcmaster.ca
 
 
